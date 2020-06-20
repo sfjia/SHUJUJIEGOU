@@ -50,7 +50,7 @@ public class RKSuanfa {
      *
      * @param t 主串
      * @param p 子串
-     * @param i 从主串下标为i的地方开始；
+     * @param i 从主串下标为i的地方开始；11
      * @return
      */
     public static boolean match(String t, String p,int i){
